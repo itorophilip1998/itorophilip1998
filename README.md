@@ -4,7 +4,7 @@
 
 I build **production-grade web, mobile, and AI-powered applications** — from intelligent LLM/RAG systems and computer-vision workflows to scalable distributed infrastructure.
 
-With **9+ years of software engineering experience**, I specialize in taking products from architecture and development through deployment, optimization, and production operations.
+With **10+ years of software engineering experience**, I specialize in taking products from architecture and development through deployment, optimization, and production operations.
 
 Currently focused on **AI engineering, LLM applications, RAG systems, distributed systems, and full-stack product development**.
 
